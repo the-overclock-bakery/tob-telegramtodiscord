@@ -12,9 +12,14 @@ To run:
 
 Enter the requested information in the terminal.
 
+
+
 How to get the API ID and the API hash: [Telegram Doc](https://core.telegram.org/api/obtaining_api_id).
+
 How to get the Discord bot token: [WriteBots](https://www.writebots.com/discord-bot-token/).
+
 How to get the channel id (Discord): [Statbot](https://docs.statbot.net/docs/faq/general/how-find-id/).
+
 How to get the channel id (Telegram, input): [Alphr](https://www.alphr.com/find-chat-id-telegram/).
 
 
